@@ -1,0 +1,13 @@
+{
+  "id": "salesiq",
+  "name": "SalesIQ",
+  "version": "1.0.0",
+  "description": "SalesIQ",
+  "main": "index.js",
+  "author": "Cliqgeek <git@cliqgeeks.com>",
+  "repository": "https://github.com/cliqgeek/recipe-salesiq",
+  "config": {
+    "serviceURL": "https://salesiq.zoho.com",
+    "hasNotificationSound": false
+  }
+}
